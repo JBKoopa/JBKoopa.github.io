@@ -74,7 +74,7 @@ function TravelLog() {
 // Achievements text and styling
 function Achievements() {
   document.getElementById("Achievements").innerHTML = "For completing all 689 Achievements you receive";
-  document.getElementById("Achievements2").innerHTML = "4205 Jades";
+  document.getElementById("Achievements2").innerHTML = "4,405 Jades";
   document.getElementById("box8").style.width = "280px";
   document.getElementById("box8").style.height = "210px";
   document.getElementById("box8").style.boxShadow = "none";
