@@ -4,7 +4,7 @@
 // Missions text and styling
 function Missions() {
   document.getElementById("mission").innerHTML = "For completing all Missions listed in Fate Atlas you receive";
-  document.getElementById("mission2").innerHTML = "6650 Jades";
+  document.getElementById("mission2").innerHTML = "7,440 Jades";
   document.getElementById("box").style.width = "280px";
   document.getElementById("box").style.height = "210px";
   document.getElementById("box").style.boxShadow = "none";
@@ -14,7 +14,7 @@ function Missions() {
 // Interastral text and styling
 function Interastral() {
   document.getElementById("Interastral").innerHTML = "For completing all Game systems and interastral guides you receive";
-  document.getElementById("Interastral2").innerHTML = "2971 Jades";
+  document.getElementById("Interastral2").innerHTML = "940 Jades";
   document.getElementById("box2").style.width = "280px";
   document.getElementById("box2").style.height = "210px";
   document.getElementById("box2").style.boxShadow = "none";
@@ -24,7 +24,7 @@ function Interastral() {
 // Navigation text and styling
 function Navigation() {
   document.getElementById("Navigation").innerHTML = "For collecting all Treasures and Wrap Trotters you receive";
-  document.getElementById("Navigation2").innerHTML = "7175 Jades";
+  document.getElementById("Navigation2").innerHTML = "8,920 Jades";
   document.getElementById("box3").style.width = "280px";
   document.getElementById("box3").style.height = "210px";
   document.getElementById("box3").style.boxShadow = "none";
@@ -34,7 +34,7 @@ function Navigation() {
 // Simulated Universe text and styling
 function SimulatedUniverse() {
   document.getElementById("SimulatedUniverse").innerHTML = "For completing all of Simulated Universe and Expansion Module you receive";
-  document.getElementById("SimulatedUniverse2").innerHTML = "14,570 Jades";
+  document.getElementById("SimulatedUniverse2").innerHTML = "15,095 Jades";
   document.getElementById("box4").style.width = "280px";
   document.getElementById("box4").style.height = "210px";
   document.getElementById("box4").style.boxShadow = "none";
@@ -44,7 +44,7 @@ function SimulatedUniverse() {
 // Forgotten Hall/Pure Fiction text and styling
 function ForgottenHall() {
   document.getElementById("ForgottenHall").innerHTML = "For completing all of Forgotten Hall/Pure Fiction you receive";
-  document.getElementById("ForgottenHall2").innerHTML = "5640 Jades";
+  document.getElementById("ForgottenHall2").innerHTML = "10,326 Jades";
   document.getElementById("box5").style.width = "280px";
   document.getElementById("box5").style.height = "210px";
   document.getElementById("box5").style.boxShadow = "none";
@@ -64,7 +64,7 @@ function PomPom() {
 // Travel Log text and styling
 function TravelLog() {
   document.getElementById("TravelLog").innerHTML = "For completing all Permanent events you receive";
-  document.getElementById("TravelLog2").innerHTML = "5030 Jades";
+  document.getElementById("TravelLog2").innerHTML = "4,780 Jades";
   document.getElementById("box7").style.width = "280px";
   document.getElementById("box7").style.height = "210px";
   document.getElementById("box7").style.boxShadow = "none";
