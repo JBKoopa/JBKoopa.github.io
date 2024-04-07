@@ -1,0 +1,7 @@
+Load to github step by step
+
+1. cd to right file
+2. git add .
+3. git commit -m "initial commit"
+git push origin main(or folder name)
+
