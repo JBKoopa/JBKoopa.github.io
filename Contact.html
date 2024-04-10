@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="contact">
+    <ul>
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="Interastral.html">Interastral Guide</a></li>
+        <li><a href="Missions.html">Missions</a></li>
+        <li><a href="SimulatedUniverse.html">Simulated Universe</a></li>
+        <li><a href="Events.html">Events</a></li>
+        <li><a href="GameSystems.html">Game Systems</a></li>
+        <li><a href="Exploration.html">Exploration</a></li>
+        <li><a href="Achievements.html">Achievements</a></li>
+    </ul>
+
+    <div class="contact-container">
+        <form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
+            <div class="contact-left-title">
+                <h2>Get in touch</h2>
+                <hr>
+            </div>
+            <input type="hidden" name="access_key" value="1c01f308-9ef0-4e6f-8b58-542d3ea07e49">
+            <input type="text" name="name" placeholder="Username" class="contact-inputs" required>
+            <input type="text" name="email" placeholder="Email" class="contact-inputs" required>
+            <textarea name="message" placeholder="Message" class="contact-inputs" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+        <div class="contact-right">
+
+
+        </div>
+    </div>
+</body>
+</html>
