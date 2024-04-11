@@ -21,7 +21,9 @@ h1{
 }
 
 .content{
-    margin: 60px;
+    width: 700px;
+    height: auto;
+    margin: auto;
     font-size: 20px;
     color: white;
 }
