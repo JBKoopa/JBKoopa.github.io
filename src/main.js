@@ -13,7 +13,7 @@ function Missions() {
 
 // Interastral text and styling
 function Interastral() {
-  document.getElementById("Interastral").innerHTML = "For completing all Game systems and interastral guides you receive";
+  document.getElementById("Interastral").innerHTML = "For completing interastral guides you receive";
   document.getElementById("Interastral2").innerHTML = "940 Jades";
   document.getElementById("box2").style.width = "280px";
   document.getElementById("box2").style.height = "210px";
@@ -23,7 +23,7 @@ function Interastral() {
 
 // Navigation text and styling
 function Navigation() {
-  document.getElementById("Navigation").innerHTML = "For collecting all Treasures and Wrap Trotters you receive";
+  document.getElementById("Navigation").innerHTML = "For collecting all collectibles on the map you receive";
   document.getElementById("Navigation2").innerHTML = "8,920 Jades";
   document.getElementById("box3").style.width = "280px";
   document.getElementById("box3").style.height = "210px";
@@ -43,7 +43,7 @@ function SimulatedUniverse() {
 
 // Forgotten Hall/Pure Fiction text and styling
 function ForgottenHall() {
-  document.getElementById("ForgottenHall").innerHTML = "For completing all of Forgotten Hall/Pure Fiction you receive";
+  document.getElementById("ForgottenHall").innerHTML = "For completing all Game Systems you receive";
   document.getElementById("ForgottenHall2").innerHTML = "10,326 Jades";
   document.getElementById("box5").style.width = "280px";
   document.getElementById("box5").style.height = "210px";
