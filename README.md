@@ -78,4 +78,4 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 ## 🍪 Thank you for Reading my README, here have a Cookie 
 <br>
 
-> If you look at the code its very rudimentary, I mainly just wanted to throw something out into the world without it taking 5 years
+> If you looking at the code its very rudimentary, I mainly just wanted to throw something out into the world without it taking 5 years
