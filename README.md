@@ -1,6 +1,6 @@
 <h1 align="center">Project Jades</h1>
 
-> This is a simple web page that tells you how many Jades you can get across the Whole Game of Honkai Star Rail
+> This is a simple web page that tells you how many Stellar Jades you can get across the Whole Game of Honkai Star Rail
 
 This Website is mainly targeted towards returning players who are overwhelmed with all the new content
 or your a F2P player looking for those last few Jades to get that limited 5 Star ⭐⭐⭐⭐⭐
