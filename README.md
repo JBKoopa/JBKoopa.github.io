@@ -11,9 +11,7 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 
 <summary>A complete overview of how many Jades you can collect</summary>
 <summary>What to do first to receive the most amount of Jades</summary>
-<summary>Many more ways to receive Jades</summary>
-
-
+<summary>Organized pages for all different ways of earning Jades</summary>
 
 
 ## 📋 Plans for the Website
@@ -78,4 +76,4 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 ## 🍪 Thank you for Reading my README, here have a Cookie 
 <br>
 
-> If you looking at the code its very rudimentary, I mainly just wanted to throw something out into the world without it taking 5 years
+> If you are looking at the code its very rudimentary, I mainly just wanted to throw something out into the world without it taking 5 years
