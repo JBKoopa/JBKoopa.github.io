@@ -13,6 +13,14 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 <summary>What to do first to receive the most amount of Jades</summary>
 <summary>Organized pages for all different ways of earning Jades</summary>
 
+## 🥧 Distribution of Jades
+> Distribution of all the Jades between the sections
+
+<div align="center">
+  
+  ![alt text](https://cdn.discordapp.com/attachments/1190992002091864065/1230895608290742352/chart_3.png?ex=6634fbdd&is=662286dd&hm=3ef4b28d53612e1b1af5c7e25c9c6a89b56b5250ea00672f1abe97956b63da5f&)
+  
+</div>
 
 ## 📋 Plans for the Website
 > I have a lot of Ideas on how to move forward with the Website. I can't Promise that I will get around to all the Ideas.
@@ -63,15 +71,6 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 </p>
 </details>
 <br>
-
-## 🥧 Distribution of Jades
-> Distribution of all the Jades between the sections
-
-<div align="center">
-  
-  ![alt text](https://cdn.discordapp.com/attachments/1190992002091864065/1230895608290742352/chart_3.png?ex=6634fbdd&is=662286dd&hm=3ef4b28d53612e1b1af5c7e25c9c6a89b56b5250ea00672f1abe97956b63da5f&)
-  
-</div>
 
 ## ✅ Updates
 > Current Version 1.0
