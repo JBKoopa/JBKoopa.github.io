@@ -178,11 +178,8 @@ ul {
     font-family: "Sofia Sans", sans-serif;
     font-size: 20px;
     border: none;
-    
     padding: 10px;
     margin: 10px;
-    
-    
 }
 
 .box:hover{
@@ -225,6 +222,7 @@ ul {
     padding: 20px;
     margin: 10px;
     border: 1px solid #363636;
+    
 }
 
 .chart2{
@@ -509,24 +507,44 @@ table td, table th {
 }
 
 @media (max-width: 1250px) {
-    .container {
 
+    body{
+        margin: 0px;
+    }
+
+    .container {
         align-items: center;
         justify-content: center;
         width: 400px;
         flex-direction: column;
     }
+
     #container2 {
         width: 500px;
+        margin: 0px;
     }
 
     #container3 {
         width: 500px;
+        margin: 0px;
     }
 
     li{
         left: 0%;
         float: none;
     }
-    
+
+    .content{
+        width: 500px;
+    }
+
+    /* exploration phone view */
+    .chart{
+        width: 500px;
+
+    }
+
+    .chart2{
+        width: 500px;
+    } 
   }
