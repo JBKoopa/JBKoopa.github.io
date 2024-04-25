@@ -6,7 +6,9 @@ This Website is mainly targeted towards returning players who are overwhelmed wi
 or your a F2P player looking for those last few Jades to get that limited 5 Star ⭐⭐⭐⭐⭐
 <br>
 <br>
+
 ## 🎲 What this Website Provides:
+
 > The Website does not include Limited Rewards only Permanent Rewards
 
 <summary>A complete overview of how many Jades you can collect</summary>
@@ -14,6 +16,7 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 <summary>Organized pages for all different ways of earning Jades</summary>
 
 ## 🥧 Distribution of Jades
+
 > Distribution of all the Jades between the sections
 
 <div align="center">
@@ -23,8 +26,8 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 </div>
 
 ## 📋 Plans for the Website
-> I have a lot of Ideas on how to move forward with the Website. I can't Promise that I will get around to all the Ideas.
 
+> I have a lot of Ideas on how to move forward with the Website. I can't Promise that I will get around to all the Ideas.
 
 <details>
 <summary>Check List</summary>
@@ -60,6 +63,16 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 > Allowing Users to change the Aesthetic of the Website like Wallpapers and color slides
 
 </p>
+
+<details>
+<summary>Database</summary>
+<p>
+
+> using a database instead of pure tables to save the data
+
+</p>
+</details>
+
 </details>
 
 <details>
@@ -73,6 +86,7 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 <br>
 
 ## ✅ Updates
+
 > Current Version 1.0
 
 <h3>Version 1.0</h3>
@@ -81,7 +95,8 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 
 <br><br>
 
-## 🍪 Thank you for Reading my README, here have a Cookie 
+## 🍪 Thank you for Reading my README, here have a Cookie
+
 <br>
 
 > If you are looking at the code its very rudimentary, I mainly just wanted to throw something out into the world without it taking 5 years
