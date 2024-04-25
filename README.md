@@ -63,6 +63,7 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 > Allowing Users to change the Aesthetic of the Website like Wallpapers and color slides
 
 </p>
+</details>
 
 <details>
 <summary>Database</summary>
@@ -71,7 +72,6 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 > using a database instead of pure tables to save the data
 
 </p>
-</details>
 
 </details>
 
