@@ -69,7 +69,7 @@ or your a F2P player looking for those last few Jades to get that limited 5 Star
 <summary>Database</summary>
 <p>
 
-> using a database instead of pure tables to save the data
+> using a database instead of tables to save the data
 
 </p>
 
